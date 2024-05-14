@@ -10,7 +10,6 @@
 - JavaScript
 - HTML
 - CSS
-- React
 
 ## 💞️ I'm looking to collaborate on ...
 - Any front-end projects that use JavaScript or React
