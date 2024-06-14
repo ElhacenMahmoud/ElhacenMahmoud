@@ -17,7 +17,8 @@
 
 ## 📫 How to reach me ...
 - Email: elhacenmahmoud41@gmail.com
-- LinkedIn: https://www.linkedin.com/in/el-hacen-mahmoud/
+- LinkedIn:
+- https://www.linkedin.com/in/elhacen-mahmoud-8411ba27a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## ⚡ Fun fact: ...
 - I speak two languages: Arabic and English
