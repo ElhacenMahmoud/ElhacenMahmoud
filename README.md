@@ -7,12 +7,11 @@
 - Learning new skills and technologies
 
 ## 🌱 I'm currently learning ...
-- JavaScript
-- HTML
-- CSS
+- bootstrap 5
+- Sass
 
 ## 💞️ I'm looking to collaborate on ...
-- Any front-end projects that use JavaScript or React
+- Any front-end projects that use JavaScript
 - Any web design projects that need a creative and passionate developer
 - Any open source projects that are beginner-friendly and fun
 
