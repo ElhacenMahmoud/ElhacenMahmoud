@@ -7,8 +7,7 @@
 - Learning new skills and technologies
 
 ## 🌱 I'm currently learning ...
-- bootstrap 5
-- Sass
+- Next.js
 
 ## 💞️ I'm looking to collaborate on ...
 - Any front-end projects that use JavaScript
