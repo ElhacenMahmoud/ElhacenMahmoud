@@ -20,8 +20,8 @@
 - https://www.linkedin.com/in/elhacen-mahmoud-8411ba27a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## ⚡ Fun fact: ...
-- I speak two languages: Arabic and English
-- I'm a fan of sci-fi and fantasy movies and books
+- My mother tongue is Arabic, and I also speak fluent English.
+- In my free time, I enjoy reading books and staying active through fitness.
 
 
 <!---
