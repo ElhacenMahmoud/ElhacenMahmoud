@@ -6,9 +6,6 @@
 - JavaScript
 - Learning new skills and technologies
 
-## 🌱 I'm currently learning ...
-- Next.js
-
 ## 💞️ I'm looking to collaborate on ...
 - Any front-end projects that use JavaScript
 - Any web design projects that need a creative and passionate developer
